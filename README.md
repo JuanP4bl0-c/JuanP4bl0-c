@@ -4,9 +4,9 @@
 ##
 
 <div align="center">
-  <a href="https://github.com/jessic-campos">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jessic-campos&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessic-campos&layout=compact&langs_count=7&theme=aura"/>
+  <a href="https://github.com/Llezzado">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Llezzado&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Llezzado&layout=compact&langs_count=7&theme=aura"/>
 </div>
 
 ##
