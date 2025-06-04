@@ -15,7 +15,7 @@
 ![C++](https://img.shields.io/badge/C++-Advanced-00599C?logo=c%2B%2B)
 
 ![RTOS](https://img.shields.io/badge/RTOS_(FreeRTOS/Zephyr)-Expert-00979D)
-![ARM](https://img.shields.io/badge/ARM_Cortex-Expert-0091BD)
+![ARM](https://img.shields.io/badge/ARM_Cortex-0091BD)
 <!--
 **Llezzado/Llezzado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
