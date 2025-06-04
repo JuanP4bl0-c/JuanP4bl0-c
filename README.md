@@ -11,13 +11,10 @@
 
 ##
 
-![Microcontroladores](https://img.shields.io/badge/MCUs-STM32/ESP32/PIC-003366)
-![Embedded Linux](https://img.shields.io/badge/Embedded_Linux/Buildroot-3DDC84?logo=linux)
+![Microcontroladores](https://img.shields.io/badge/MCUs-STM32/PIC-003366)
 
 ![C](https://img.shields.io/badge/C-00599C?logo=c)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B)
-
-![RTOS](https://img.shields.io/badge/RTOS_(Pico2)--00979D)
 ![ARM](https://img.shields.io/badge/ARM_Cortex-0091BD)
 <!--
 **Llezzado/Llezzado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
