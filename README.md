@@ -11,7 +11,18 @@
 
 ##
 
-![Embedded Linux](https://img.shields.io/badge/Embedded_Linux-Yocto/Buildroot-3DDC84?logo=linux)
+```mermaid
+pie
+    title Linguagens Mais Usadas
+    "C" : 45
+    "C++" : 30
+    "Python" : 15
+    "Assembly" : 5
+    "Outros" : 5
+```
+
+![Microcontroladores](https://img.shields.io/badge/MCUs-STM32/ESP32/PIC-003366)
+![Embedded Linux](https://img.shields.io/badge/Embedded_Linux/Buildroot-3DDC84?logo=linux)
 
 ![C](https://img.shields.io/badge/C-00599C?logo=c)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B)
