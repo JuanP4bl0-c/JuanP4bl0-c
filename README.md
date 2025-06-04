@@ -11,6 +11,8 @@
 
 ##
 
+![Embedded Linux](https://img.shields.io/badge/Embedded_Linux-Yocto/Buildroot-3DDC84?logo=linux)
+
 ![C](https://img.shields.io/badge/C-00599C?logo=c)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B)
 
