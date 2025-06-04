@@ -1,5 +1,5 @@
 ## Hi there 👋 :computer:
-![Banner Embarcados](https://via.placeholder.com/1200x400/2D3748/FFFFFF?text=Sistemas+Embarcados+e+IOT)
+
 
 ##
 
@@ -10,11 +10,17 @@
 </div>
 
 ##
+
+![C](https://img.shields.io/badge/C-Expert-00599C?logo=c)
+![C++](https://img.shields.io/badge/C++-Advanced-00599C?logo=c%2B%2B)
+
+![RTOS](https://img.shields.io/badge/RTOS_(FreeRTOS/Zephyr)-Expert-00979D)
+![ARM](https://img.shields.io/badge/ARM_Cortex-Expert-0091BD)
 <!--
 **Llezzado/Llezzado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+![Banner Embarcados](https://via.placeholder.com/1200x400/2D3748/FFFFFF?text=Sistemas+Embarcados+e+IOT)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
