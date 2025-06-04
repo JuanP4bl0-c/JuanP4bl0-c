@@ -11,10 +11,10 @@
 
 ##
 
-![C](https://img.shields.io/badge/C-Expert-00599C?logo=c)
-![C++](https://img.shields.io/badge/C++-Advanced-00599C?logo=c%2B%2B)
+![C](https://img.shields.io/badge/C-00599C?logo=c)
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B)
 
-![RTOS](https://img.shields.io/badge/RTOS_(FreeRTOS)--00979D)
+![RTOS](https://img.shields.io/badge/RTOS_(Pico2)--00979D)
 ![ARM](https://img.shields.io/badge/ARM_Cortex-0091BD)
 <!--
 **Llezzado/Llezzado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
