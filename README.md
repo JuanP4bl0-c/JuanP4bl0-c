@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Juan Pablo - Embedded Systems Engineer
+# Hi there 👋
 
 ## 🔧 Technical Stack
 
