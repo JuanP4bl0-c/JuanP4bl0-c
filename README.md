@@ -1,9 +1,5 @@
 # Hi there 👋 I'm Juan Pablo - Embedded Systems Engineer
 
-<div align="center">
-  <img src="https://via.placeholder.com/1200x400/2D3748/FFFFFF?text=Embedded+Systems+%26+IoT" alt="Banner">
-</div>
-
 ## 🔧 Technical Stack
 
 ### 🖥️ Core Languages
