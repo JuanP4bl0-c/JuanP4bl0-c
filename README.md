@@ -12,17 +12,15 @@
 ![Python](https://img.shields.io/badge/Python-Intermediate-3776AB?logo=python&logoColor=white)
 
 ### 🎛️ Embedded Technologies
-![ARM Cortex](https://img.shields.io/badge/ARM_Cortex-Expert-0091BD)
+![ARM Cortex](https://img.shields.io/badge/ARM_Cortex-0091BD)
 ![STM32](https://img.shields.io/badge/STM32-03234B?logo=stmicroelectronics)
 ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-Kernel_Development-3DDC84)
 
 ### ⚙️ Hardware & Tools
-![PCB Design](https://img.shields.io/badge/PCB-Eagle/KiCad-311C87)
 ![Debugging](https://img.shields.io/badge/Debugging-JTAG/GDB-FF6F00)
 ![Protocols](https://img.shields.io/badge/Protocols-I2C/SPI/UART/CAN-FF4088)
 
 ## 📊 GitHub Stats
-
 <div align="center">
   <a href="https://github.com/JuanP4bl0-c">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JuanP4bl0-c&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/>
@@ -30,17 +28,5 @@
   </a>
 </div>
 
-## 🌱 Current Projects
-
-- 🔭 Developing a custom RTOS for ARM Cortex-M
-- 🌱 Learning Rust for embedded systems
-- 👯 Looking to collaborate on open-source embedded projects
-
-## 📫 How to Reach Me
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/yourprofile)
 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:juanpablo.rufinomesquita.infor@gmail.com)
-
-## ⚡ Fun Fact
-
-When I'm not debugging firmware, you'll find me building custom mechanical keyboards! ⌨️
