@@ -28,5 +28,5 @@
   </a>
 </div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/juan-pablo-rufino-mesquita-b154831a4/))
 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:juanpablo.rufinomesquita.infor@gmail.com)
