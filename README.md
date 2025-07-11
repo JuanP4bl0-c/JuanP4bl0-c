@@ -7,9 +7,9 @@
 ## 🔧 Technical Stack
 
 ### 🖥️ Core Languages
-![C](https://img.shields.io/badge/C-Expert-00599C?logo=c&logoColor=white)
+![C](https://img.shields.io/badge/C-Advanced-00599C?logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-Advanced-00599C?logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-Intermediate-3776AB?logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Java-Intermediate-3776AB?logo=python&logoColor=white)
 
 ### 🎛️ Embedded Technologies
 ![ARM Cortex](https://img.shields.io/badge/ARM_Cortex-0091BD)
